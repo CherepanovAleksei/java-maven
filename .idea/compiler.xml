@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="quickstart" />
+        <module name="quickstart4" />
+        <module name="quickstart (1)" />
+        <module name="quickstart7" />
+        <module name="quickstart (2)" />
+        <module name="quickstart8" />
+        <module name="quickstart5" />
+        <module name="quickstart18" />
+        <module name="quickstart6" />
+        <module name="quickstart19" />
+        <module name="quickstart16" />
+        <module name="quickstart17" />
+        <module name="quickstart (3)" />
+        <module name="quickstart14" />
+        <module name="quickstart9" />
+        <module name="quickstart15" />
+        <module name="quickstart12" />
+        <module name="quickstart13" />
+        <module name="mixed-code-hello-world" />
+        <module name="quickstart10" />
+        <module name="quickstart11" />
+        <module name="quickstart20" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dagger-maven-example" target="1.6" />
+      <module name="hello-world" target="1.5" />
+      <module name="kotlin-examples" target="1.5" />
+      <module name="kotlin-maven-example" target="1.5" />
+      <module name="mixed-code-hello-world" target="1.5" />
+      <module name="MyKotlin" target="1.5" />
+      <module name="quickstart" target="1.7" />
+      <module name="quickstart (1)" target="1.7" />
+      <module name="quickstart (2)" target="1.7" />
+      <module name="quickstart (3)" target="1.7" />
+      <module name="quickstart10" target="1.7" />
+      <module name="quickstart11" target="1.7" />
+      <module name="quickstart12" target="1.7" />
+      <module name="quickstart13" target="1.7" />
+      <module name="quickstart14" target="1.7" />
+      <module name="quickstart15" target="1.7" />
+      <module name="quickstart16" target="1.7" />
+      <module name="quickstart17" target="1.7" />
+      <module name="quickstart18" target="1.7" />
+      <module name="quickstart19" target="1.7" />
+      <module name="quickstart20" target="1.7" />
+      <module name="quickstart4" target="1.7" />
+      <module name="quickstart5" target="1.7" />
+      <module name="quickstart6" target="1.7" />
+      <module name="quickstart7" target="1.7" />
+      <module name="quickstart8" target="1.7" />
+      <module name="quickstart9" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="quickstart" options="" />
+    </option>
+  </component>
+</project>

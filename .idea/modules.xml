@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dagger-maven-example/dagger-maven-example.iml" filepath="$PROJECT_DIR$/dagger-maven-example/dagger-maven-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-examples.iml" filepath="$PROJECT_DIR$/kotlin-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mixed-code-hello-world/mixed-code-hello-world.iml" filepath="$PROJECT_DIR$/mixed-code-hello-world/mixed-code-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart/quickstart.iml" filepath="$PROJECT_DIR$/quickstart/quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart1/quickstart (1).iml" filepath="$PROJECT_DIR$/quickstart1/quickstart (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart2/quickstart (2).iml" filepath="$PROJECT_DIR$/quickstart2/quickstart (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart3/quickstart (3).iml" filepath="$PROJECT_DIR$/quickstart3/quickstart (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart10/quickstart10.iml" filepath="$PROJECT_DIR$/quickstart10/quickstart10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart11/quickstart11.iml" filepath="$PROJECT_DIR$/quickstart11/quickstart11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart12/quickstart12.iml" filepath="$PROJECT_DIR$/quickstart12/quickstart12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart13/quickstart13.iml" filepath="$PROJECT_DIR$/quickstart13/quickstart13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart14/quickstart14.iml" filepath="$PROJECT_DIR$/quickstart14/quickstart14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart15/quickstart15.iml" filepath="$PROJECT_DIR$/quickstart15/quickstart15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart16/quickstart16.iml" filepath="$PROJECT_DIR$/quickstart16/quickstart16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart17/quickstart17.iml" filepath="$PROJECT_DIR$/quickstart17/quickstart17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart18/quickstart18.iml" filepath="$PROJECT_DIR$/quickstart18/quickstart18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart19/quickstart19.iml" filepath="$PROJECT_DIR$/quickstart19/quickstart19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart20/quickstart20.iml" filepath="$PROJECT_DIR$/quickstart20/quickstart20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart4/quickstart4.iml" filepath="$PROJECT_DIR$/quickstart4/quickstart4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart5/quickstart5.iml" filepath="$PROJECT_DIR$/quickstart5/quickstart5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart6/quickstart6.iml" filepath="$PROJECT_DIR$/quickstart6/quickstart6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart7/quickstart7.iml" filepath="$PROJECT_DIR$/quickstart7/quickstart7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart8/quickstart8.iml" filepath="$PROJECT_DIR$/quickstart8/quickstart8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart9/quickstart9.iml" filepath="$PROJECT_DIR$/quickstart9/quickstart9.iml" />
+    </modules>
+  </component>
+</project>

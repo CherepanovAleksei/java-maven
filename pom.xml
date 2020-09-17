@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+        xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+        xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.jetbrains.kotlin</groupId>
+    <artifactId>kotlin-examples</artifactId>
+    <version>0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>quickstart</module>
+        <module>quickstart1</module>
+        <module>quickstart2</module>
+        <module>quickstart3</module>
+        <module>quickstart4</module>
+        <module>quickstart5</module>
+        <module>quickstart6</module>
+        <module>quickstart7</module>
+        <module>quickstart8</module>
+        <module>quickstart9</module>
+        <module>quickstart10</module>
+        <module>quickstart11</module>
+        <module>quickstart12</module>
+        <module>quickstart13</module>
+        <module>quickstart14</module>
+        <module>quickstart15</module>
+        <module>quickstart16</module>
+        <module>quickstart17</module>
+        <module>quickstart18</module>
+        <module>quickstart19</module>
+        <module>quickstart20</module>
+
+    </modules>
+    <properties>
+        <kotlin.version>org.jetbrains.</kotlin.version>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.jetbrains.kotlin</groupId>
+            <artifactId>kotlin-stdlib</artifactId>
+            <version>${kotlin.version}</version>
+        </dependency>
+    </dependencies>
+</project>
